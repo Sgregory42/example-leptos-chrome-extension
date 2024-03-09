@@ -13,6 +13,7 @@ Thanks to these repository for their examples :
 ## Notes
 - I tried only with leptos client side rendering.
 - Look at the lib.rs which contain most of the logic
+- This can be probably simplified and cleaned up.
 
 ## Setup
 Setup is from [rust-wasm-chrome-ext](https://github.com/theberrigan/rust-wasm-chrome-ext)
